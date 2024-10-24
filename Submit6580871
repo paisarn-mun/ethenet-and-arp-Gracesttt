@@ -1,0 +1,9 @@
+1) e0:be:03:3f:b7:11
+2) 1c:61:b4:47:3f:f0 , No it is the address of Mahidol router
+3) 0x0800, upper layer protocol is IP
+4) 54 
+5) 1c:61:b4:47:3f:f0, No, it is University router’s MAC address. 
+6) e0:be:03:3f:b7:11, Yes it is.
+7) Hexadecimal value is 0x0800, Upper layer is IP protocol
+8) 13
+9) 4 Ethernet frames 104 105 106 108
